@@ -3,8 +3,6 @@ layout: page
 title: About Me
 ---
 
-A bioinformatician with expertise in next generation sequencing data analysis like RNA sequencing, Single cell RNA sequencing, ChIP sequencing, microbiome as well as microarray analysis. She has experience in Cloud computing (AWS) and  also tested bioinformatics platforms like Dragen, DNA Nexus and Cavatica. She is acquainted with programming languages Shell, R and Python. Currently she is a Bioinformatics Analystt, at Children&#39;s National Medical Center, performing high throughput data analysis along with testing and optimizing pipelines for various experiments. Previous to this she was Bioinformatics Analyst at Digicon where she developed pipelines on an in-house Hadoop-optimized cloud platform developed by Digicon. Before that, she was a Bioinformatics Analyst for an NIH contract within the Big Data to Knowledge (BD2K) program to develop a Biomedical Standards Coordinating Center to enhance data sharing and lower the barriers to standards adoption by using a variety of tools to educate, train, and advocate for the use of standards in research. Also she was a part-time Bioinformatics Analyst at Northrop Grumman performing data management for the Immport database._
-
 **Technical Expertise:**
 
 | **SN** | **Area** | **Technique** |
@@ -29,7 +27,9 @@ A bioinformatician with expertise in next generation sequencing data analysis li
 
 **Publications**
 
-- Immunotherapy of Relapsed and Refractory Solid Tumors With Ex Vivo Expanded Multi-Tumor Associated Antigen Specific Cytotoxic T Lymphocytes: A Phase I Study Journal of Clinical Oncology 2019 37:26, 2349-2359
-- Enabling precision medicine in neonatology, an integrated repository for preterm birth research [Scientific Data](https://www.nature.com/sdata) volume 5, Article number: 180219 (2018)
+| Title | Journal Name | DOI | 
+| --- | --- | --- | --- | --- | --- |
+| Immunotherapy of Relapsed and Refractory Solid Tumors With Ex Vivo Expanded Multi-Tumor Associated Antigen Specific Cytotoxic T Lymphocytes: A Phase I Study | [Journal of Clinical Oncology](https://ascopubs.org/doi/10.1200/JCO.19.00177) | 210.1200/JCO.19.00177 |
+| Enabling precision medicine in neonatology, an integrated repository for preterm birth research | [Scientific Data](https://www.nature.com/articles/sdata2018219) | 10.1038/sdata.2018.219 |
 
-### **Orchid ID -** https://orcid.org/0000-0003-1599-0679
+**[Orchid ID]-** (https://orcid.org/0000-0003-1599-0679)
