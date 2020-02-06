@@ -5,6 +5,7 @@ email: pbpayal42@gmail.com
 description: Memoirs of a bioinformatician
 twitter_username: payalpb_me
 github_username:  pbpayal
+rss: false
 
 # Build settings
 markdown: kramdown
