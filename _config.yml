@@ -1,0 +1,11 @@
+# basic options
+title: Your awesome title
+author: Payal B
+email: pbpayal42@gmail.com
+description: Memoirs of a bioinformatician
+twitter_username: payalpb_me
+github_username:  pbpayal
+
+# Build settings
+markdown: kramdown
+theme: minima
