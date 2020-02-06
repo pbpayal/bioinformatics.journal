@@ -23,13 +23,11 @@ title: About Me
 | 2. | M.S. | Biochemistry | Bangalore University | 2011-2013 | Bangalore, India |
 | 3. | B.S. | Biotechnology, Microbiology, Biochemistry | Bangalore University | 2008-2011 | Bangalore, India |
 
-** **
-
-**Publications**
+**Publications:**
 
 | Title | Journal Name | DOI | 
 | --- | --- | --- | --- | --- | --- |
 | Immunotherapy of Relapsed and Refractory Solid Tumors With Ex Vivo Expanded Multi-Tumor Associated Antigen Specific Cytotoxic T Lymphocytes: A Phase I Study | [Journal of Clinical Oncology](https://ascopubs.org/doi/10.1200/JCO.19.00177) | 210.1200/JCO.19.00177 |
 | Enabling precision medicine in neonatology, an integrated repository for preterm birth research | [Scientific Data](https://www.nature.com/articles/sdata2018219) | 10.1038/sdata.2018.219 |
 
-**[Orchid ID]-** (https://orcid.org/0000-0003-1599-0679)
+**[Orchid ID](https://orcid.org/0000-0003-1599-0679)**
