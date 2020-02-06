@@ -2,11 +2,10 @@
 layout: page
 title: About Me
 ---
-[Home Page](/bioinformatics.journal/README.md )
 
 **Payal Banerjee, M.S. Bioinformatics**
 
-Germantown, MD 20874                            [**pbpayal42@gmail.com**](mailto:pbpayal42@gmail.com) **                                    201-755-5119**
+[**pbpayal42@gmail.com**](mailto:pbpayal42@gmail.com)                                
 
 
 
