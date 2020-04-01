@@ -17,10 +17,7 @@ Normalize the data using Principal Components Analysis since this is RNA seq ana
 #### Reduction of Dimensionality
 ```cds_red_dim <- reduce_dimension(cds_m_preproc, reduction_method = 'UMAP', preprocess_method = 'PCA')```
 #### Cluster the Cells
-# cluster_cells uses a technique called community detection to group cells. 
-# This approach was introduced by Levine et al as part of the phenoGraph algorithm.
-# cluster_cells() also divides the cells into larger, more well separated groups called partitions, 
-# using a statistical test from Alex Wolf et al, introduced as part of their PAGA algorithm.
+cluster_cells uses a technique called community detection to group cells. This approach was introduced by Levine et al as part of the phenoGraph algorithm.cluster_cells() also divides the cells into larger, more well separated groups called partitions, using a statistical test from Alex Wolf et al, introduced as part of their PAGA algorithm.
 ```cds_cluster <- cluster_cells(cds_red_dim)```
 #### Learn the trajectory graph
 ```cds_graph <- learn_graph(cds_cluster)```
@@ -29,10 +26,9 @@ Plot the cells from the learn graph to see the clusters, with and without the tr
 In this case,I have preliminary annotations according to cluster number and thus selected ```show_trajectory_graph = FALSE```
 
 #### Annoate the cell clusters
-# Add a new column to colData(cds_ordered) and initialize it with the values of clusters(cds)
+Add a new column to colData(cds_ordered) and initialize it with the values of clusters(cds)
 ```colData(cds_ordered)$assigned_cell_type <- as.character(partitions(cds_ordered))```
-# Now, we can use the dplyrpackage's recode() function 
-# to remap each cluster to a different cell type
+Now, we can use the dplyrpackage's recode() function to remap each cluster to a different cell type
 ```
 colData(cds_ordered)$assigned_cell_type = dplyr::recode(colData(cds_ordered)$assigned_cell_type,
                                                 "1"="OL1",
@@ -69,7 +65,7 @@ colData(cds_ordered)$assigned_cell_type = dplyr::recode(colData(cds_ordered)$ass
                                                 "32"="OL1",
                                                 "33"="OL1")
 ```                                                
-# Let's see how the new annotations look:
+Let's see how the new annotations look:
 ```
 plot_cells(cds_ordered, group_cells_by="partition", 
            color_cells_by="assigned_cell_type",           
