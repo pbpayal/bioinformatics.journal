@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Normalization for Single Cell Methods
