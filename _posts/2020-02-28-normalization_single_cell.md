@@ -1,4 +1,10 @@
 
+
+---
+layout: post
+title: Normalization for Single Cell Methods
+---
+
 ---
 layout: post
 title: Normalization for Single Cell Methods
