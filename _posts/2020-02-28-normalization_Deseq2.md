@@ -1,0 +1,38 @@
+---
+layout: post
+title: Normalization DeSeq2
+---
+
+|        | Sample 1          | Sample 2  |Sample 3|
+| ------ |:-------------:| -----:|-----:|
+| Gene 1| 0| 10 |4|
+| Gene 2| 2 | 6 |12|
+| Gene 3 | 33 |55|200|
+
+Step 1:
+Log of raw base counts
+Log with base e
+
+Step 2:
+Average of the logs for each gene in each sample
+
+Step 3:
+Filters genes with 0 counst in more than one sample
+
+Step 4:
+Subtract log(raw counts) -log(average) for eacg gene
+This is a ratio essentially of each gene across all samples
+
+Step 5:
+Calculate the median for each gene
+
+This helps to remove extreme gene expression like genes with high expression influencing genes with low expression. Thus focusing on genes with median expression and houskeeping genes
+
+Step 6: 
+Convert median to normal values which is the scaling factor
+e^median = Normal
+
+Step 7:
+Divide original read counts by scaling factor
+
+Reference - [StatQuest: DESeq2, part 1, Library Normalization](https://youtu.be/UFB993xufUU) 
