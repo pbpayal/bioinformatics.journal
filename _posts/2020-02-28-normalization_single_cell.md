@@ -5,12 +5,6 @@ layout: post
 title: Normalization for Single Cell Methods
 ---
 
----
-layout: post
-title: Normalization for Single Cell Methods
----
-
-
 #### 1. 10X 
 Read depth normlaization during cellranger aggr.
 
