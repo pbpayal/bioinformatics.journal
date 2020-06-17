@@ -15,6 +15,10 @@ library(dplyr)
 Normalize the data using Principal Components Analysis since this is RNA seq analysis
 ```cds_m_preproc <- preprocess_cds(cds_monocle3, num_dim = 30)```
 #### Reduction of Dimensionality
+To reduce the dimensionality of the data down into the X, Y plane so we can plot it easily.
+Monocle 3 uses UMAP by default, as we feel that it is both faster and better suited for clustering and 
+trajectory analysis in RNA-seq. 
+
 ```cds_red_dim <- reduce_dimension(cds_m_preproc, reduction_method = 'UMAP', preprocess_method = 'PCA')```
 #### Cluster the Cells
 cluster_cells uses a technique called community detection to group cells. This approach was introduced by Levine et al as part of the phenoGraph algorithm.cluster_cells() also divides the cells into larger, more well separated groups called partitions, using a statistical test from Alex Wolf et al, introduced as part of their PAGA algorithm.
