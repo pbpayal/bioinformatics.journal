@@ -2,12 +2,12 @@
 layout: post
 title: TCR pipeline
 ---
-# OCT 2020
-## Mixcr pipeline
+# Mixcr pipeline
+## OCT 2020
 
 
-# NOV 2020
-## VDJ tools
+# VDJ tools
+## NOV 2020
 Server: Linux - CentOS 7
 ```wget https://github.com/mikessh/vdjtools/archive/1.2.1.tar.gz```
 
