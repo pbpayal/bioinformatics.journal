@@ -62,9 +62,11 @@ Server: Linux - CentOS 7
 
 ```export PATH=$PATH:/home/pbanerjee/tools/VDJtools/vdjtools-1.2.1```
 
+```java -jar vdjtools-1.2.1.jar convert  -S MiXcr mixr-clones=output-files```
+
 ``` java -jar vdjtools-1.2.1.jar joinsample -h```
 
-```JoinSamples -p -m metadata.small.txt out/12```
+The metadata.txt is the output from VDJ tools ```convert``` function
 
-
+```java -jar vdjtools-1.2.1.jar JoinSamples -m metadata.txt joinsample_output```
 
