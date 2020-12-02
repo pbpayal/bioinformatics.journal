@@ -29,5 +29,9 @@ title: About Me
 | --- | --- | --- | --- | --- | --- |
 | Immunotherapy of Relapsed and Refractory Solid Tumors With Ex Vivo Expanded Multi-Tumor Associated Antigen Specific Cytotoxic T Lymphocytes: A Phase I Study | [Journal of Clinical Oncology](https://ascopubs.org/doi/10.1200/JCO.19.00177) | 210.1200/JCO.19.00177 |
 | Enabling precision medicine in neonatology, an integrated repository for preterm birth research | [Scientific Data](https://www.nature.com/articles/sdata2018219) | 10.1038/sdata.2018.219 |
+|A cross-sectional analysis of the urine microbiome of children with neuropathic bladders|Science Direct|https://doi.org/10.1016/j.jpurol.2020.02.005|
+|Identification of amygdala-expressed genes associated with autism spectrum disorder|Molecular Autism|https://doi.org/10.1186/s13229-020-00346-1|
+|Endothelin-1 signaling maintains glial progenitor proliferation in the postnatal subventricular zone|Nature Communications|https://doi.org/10.1038/s41467-020-16028-8|
+
 
 **[Orchid ID](https://orcid.org/0000-0003-1599-0679)**
