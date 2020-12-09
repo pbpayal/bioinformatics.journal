@@ -1,0 +1,10 @@
+-GWAS
+-Predictive Modelling
+  -AI 
+  -SVM
+ -Single Cell OSCA
+ - Visualization tools
+ - Scripts on Github
+ - Bioinformatocs Journal Modification - Beautify with Markdown
+ - Long reads pipeline
+ - Latest papers read
