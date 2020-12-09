@@ -15,12 +15,12 @@ median normalization along with most mapping and quantification algorithms, exce
 
 
 <p align="center">
-    <img src="/Images/RNA-seq_FDA_paper_images/pipeline_selection_strategy.png"width=400 /> 
+    <img src="/Images/RNA-seq_FDA_paper_images/pipeline_selection_strategy.png" "width=400" /> 
 </p>  
 
 
 <p align="center">
-    <img src="/Images/RNA-seq_FDA_paper_images/rna1.png" />
+    <img src="/Images/RNA-seq_FDA_paper_images/rna1.png" /> ![](/Images/RNA-seq_FDA_paper_images/rna1.png) 
 </p>
 
 
