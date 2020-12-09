@@ -63,7 +63,7 @@ The 278 RNA-seq pipelines applied to the SEQC-benchmark dataset differ in terms 
     <img src="https://github.com/pbpayal/bioinformatics.journal/blob/master/Images/RNA-seq_FDA_paper_images/benchmark_datasets.png" />
 </p>
 
-
+! [benchmark_datasets] (https://github.com/pbpayal/bioinformatics.journal/blob/master/Images/RNA-seq_FDA_paper_images/benchmark_datasets.png)
 
 <p align="center">
     <img src="/Images/RNA-seq_FDA_paper_images/pipeline_selection_strategy.png " />
