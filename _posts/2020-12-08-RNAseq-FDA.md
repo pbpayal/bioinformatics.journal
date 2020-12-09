@@ -26,7 +26,7 @@ median normalization along with most mapping and quantification algorithms, exce
 
 
 <p align="center">
-    <img src="/Images/RNA-seq_FDA_paper_images/rna2.png" />
+    <img src="/images/rna2.png" />
 </p>
 
 
