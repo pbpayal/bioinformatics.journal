@@ -14,10 +14,7 @@ reliability - as the intra-class (i.e., intra-sample in the context of the SEQC-
 median normalization along with most mapping and quantification algorithms, except for the [Bowtie2 multi-hit + count-based] and [Novoalign + RSEM] pipelines, was the best choice for quantifying genes with high reliability, or high ICC.
 
 
-<p align="center">
-    
-    <img src="/Images/RNA-seq_FDA_paper_images/pipeline_selection_strategy.png" />
-    
+<p align="center" img src="/Images/RNA-seq_FDA_paper_images/pipeline_selection_strategy.png" /> 
 </p>  
 
 
