@@ -3,6 +3,7 @@ layout: post
 title: Normalization DeSeq2
 ---
 Generalized Linear Model - normalization
+Fits data into negative binomeal distribution
 https://hbctraining.github.io/DGE_workshop/lessons/02_DGE_count_normalization.html
 Since tools for differential expression analysis are comparing the counts between sample groups for the same gene, gene length does not need to be accounted for by the tool. However, sequencing depth and RNA composition do need to be taken into account.
 
